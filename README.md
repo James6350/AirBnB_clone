@@ -1,6 +1,3 @@
-Certainly! Here's a template for your README.md file based on the provided information:
-
-```markdown
 # AirBnB Clone Command Interpreter
 
 ## Overview
@@ -69,9 +66,7 @@ By the end of this project, you are expected to understand:
 
 To run the unit tests, use the following command:
 
-```bash
-python3 -m unittest discover tests
-```
+Python3 -m unittest discover tests
 
 ## Authors
 
